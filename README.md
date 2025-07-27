@@ -21,4 +21,3 @@ New York City's congestion pricing program aims to reduce traffic congestion, im
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn for ML models
 - Plotly for interactive visualizations
-- NLTK for text analysis 
